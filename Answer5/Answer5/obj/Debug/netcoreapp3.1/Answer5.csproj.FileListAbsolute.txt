@@ -1,0 +1,13 @@
+C:\Users\ybelwal\Desktop\New folder (4)\Answer5\Answer5\bin\Debug\netcoreapp3.1\Answer5.exe
+C:\Users\ybelwal\Desktop\New folder (4)\Answer5\Answer5\bin\Debug\netcoreapp3.1\Answer5.deps.json
+C:\Users\ybelwal\Desktop\New folder (4)\Answer5\Answer5\bin\Debug\netcoreapp3.1\Answer5.runtimeconfig.json
+C:\Users\ybelwal\Desktop\New folder (4)\Answer5\Answer5\bin\Debug\netcoreapp3.1\Answer5.runtimeconfig.dev.json
+C:\Users\ybelwal\Desktop\New folder (4)\Answer5\Answer5\bin\Debug\netcoreapp3.1\Answer5.dll
+C:\Users\ybelwal\Desktop\New folder (4)\Answer5\Answer5\bin\Debug\netcoreapp3.1\Answer5.pdb
+C:\Users\ybelwal\Desktop\New folder (4)\Answer5\Answer5\obj\Debug\netcoreapp3.1\Answer5.AssemblyInfoInputs.cache
+C:\Users\ybelwal\Desktop\New folder (4)\Answer5\Answer5\obj\Debug\netcoreapp3.1\Answer5.AssemblyInfo.cs
+C:\Users\ybelwal\Desktop\New folder (4)\Answer5\Answer5\obj\Debug\netcoreapp3.1\Answer5.csproj.CoreCompileInputs.cache
+C:\Users\ybelwal\Desktop\New folder (4)\Answer5\Answer5\obj\Debug\netcoreapp3.1\Answer5.dll
+C:\Users\ybelwal\Desktop\New folder (4)\Answer5\Answer5\obj\Debug\netcoreapp3.1\Answer5.pdb
+C:\Users\ybelwal\Desktop\New folder (4)\Answer5\Answer5\obj\Debug\netcoreapp3.1\Answer5.genruntimeconfig.cache
+C:\Users\ybelwal\Desktop\New folder (4)\Answer5\Answer5\obj\Debug\netcoreapp3.1\Answer5.csproj.AssemblyReference.cache

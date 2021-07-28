@@ -1,0 +1,13 @@
+C:\Users\ybelwal\Desktop\New folder (4)\Answer1\Answer1\bin\Debug\netcoreapp3.1\Answer1.exe
+C:\Users\ybelwal\Desktop\New folder (4)\Answer1\Answer1\bin\Debug\netcoreapp3.1\Answer1.deps.json
+C:\Users\ybelwal\Desktop\New folder (4)\Answer1\Answer1\bin\Debug\netcoreapp3.1\Answer1.runtimeconfig.json
+C:\Users\ybelwal\Desktop\New folder (4)\Answer1\Answer1\bin\Debug\netcoreapp3.1\Answer1.runtimeconfig.dev.json
+C:\Users\ybelwal\Desktop\New folder (4)\Answer1\Answer1\bin\Debug\netcoreapp3.1\Answer1.dll
+C:\Users\ybelwal\Desktop\New folder (4)\Answer1\Answer1\bin\Debug\netcoreapp3.1\Answer1.pdb
+C:\Users\ybelwal\Desktop\New folder (4)\Answer1\Answer1\obj\Debug\netcoreapp3.1\Answer1.csproj.AssemblyReference.cache
+C:\Users\ybelwal\Desktop\New folder (4)\Answer1\Answer1\obj\Debug\netcoreapp3.1\Answer1.AssemblyInfoInputs.cache
+C:\Users\ybelwal\Desktop\New folder (4)\Answer1\Answer1\obj\Debug\netcoreapp3.1\Answer1.AssemblyInfo.cs
+C:\Users\ybelwal\Desktop\New folder (4)\Answer1\Answer1\obj\Debug\netcoreapp3.1\Answer1.csproj.CoreCompileInputs.cache
+C:\Users\ybelwal\Desktop\New folder (4)\Answer1\Answer1\obj\Debug\netcoreapp3.1\Answer1.dll
+C:\Users\ybelwal\Desktop\New folder (4)\Answer1\Answer1\obj\Debug\netcoreapp3.1\Answer1.pdb
+C:\Users\ybelwal\Desktop\New folder (4)\Answer1\Answer1\obj\Debug\netcoreapp3.1\Answer1.genruntimeconfig.cache
